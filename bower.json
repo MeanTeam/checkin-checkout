@@ -1,6 +1,6 @@
 {
-  "name": "meanjs",
-  "description": "Fullstack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+  "name": "checkin-checkout",
+  "description": "Web adn Mobile Application for automated contractor check in and check out to customer sites.",
   "homepage": "http://meanjs.org/",
   "license": "MIT",
   "dependencies": {
